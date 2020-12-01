@@ -1,0 +1,5 @@
+Person{name=Person}
+Student{name=Student}
+Employee{name=Employee}
+Faculty{name=Faculty}
+Staff{name=Staff}
